@@ -1,0 +1,21 @@
+{
+  "name": "babel-7",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "license": "MIT",
+  "author": "gottfried",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "babel-plugin-react-compiler": "^1.0.0"
+  }
+}
