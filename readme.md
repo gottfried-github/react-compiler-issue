@@ -1,5 +1,7 @@
 # Usage
 
+In [`./babel-7`](./babel-7/) or [`./babel-8`](./babel-8/), run:
+
 ```bash
 npx babel src --out-dir dist-test --extensions .js,.jsx,.cjs,.mjs
 ```
